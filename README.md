@@ -1,9 +1,22 @@
 
 # Hi there! My name is Victor Anthony.
-- 🌎🖥 I'm a Software Engineering student the Federal University of Ceará, Computer Networking Technician. I'm still learning all about technology to become an excellent IT professional in the future. 
+- 🌎🖥 I'm a Software Engineering student the Federal University of Ceará, Computer Networking Technician. I'm still learning all about technology to become an excellent IT professional in the future.
+- I intend to pursue a career in Web Front-End development and I am still looking for my first professional experience. 
  ## Technologies I study
- ![c++](https://github.com/ovictorpa/ovictorpa/blob/main/c%2B%2B_logo.png) ![c](https://github.com/ovictorpa/ovictorpa/blob/main/c%20logo.png) ![html](https://github.com/ovictorpa/ovictorpa/blob/main/1417589451_html-256.png) ![css](https://github.com/ovictorpa/ovictorpa/blob/main/logo-2582747_640-e1597771254582.png) ![js](https://github.com/ovictorpa/ovictorpa/blob/main/download.png)
+ <div>
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/ >
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ </div>
  
- - I intend to pursue a career in Web Front-End development and I am still looking for my first professional experience.
+<div>
+ <a href="https://github.com/ovictorpa">
+ <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&layout=compact&theme=dark"/>
+</div>
+ 
+ 
+ 
+ 
 
 
