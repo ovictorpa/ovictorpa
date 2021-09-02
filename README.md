@@ -1,7 +1,7 @@
 
 # Hi there! My name is Victor Anthony.
 - 🌎🖥 I'm a Software Engineering student the Federal University of Ceará, Computer Networking Technician. I'm still learning all about technology to become an excellent IT professional in the future.
-- I intend to pursue a career in Web Front-End development and I am still looking for my first professional experience. 
+
  ## Technologies I study
  <div>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/ >
