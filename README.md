@@ -5,8 +5,8 @@
  ## Technologies I study
  <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="4.5%"/>
+ <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="5%"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oarf4XxB--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" width="5%"/>
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--JEjbOLD1--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/23/node-sticker.png" width="5%"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/ width ="5%">
 
  </div>
