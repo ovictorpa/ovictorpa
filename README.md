@@ -1,22 +1,21 @@
 
-# Hi there! My name is Victor Anthony.
-- 🌎🖥 I'm a Software Engineering student the Federal University of Ceará, Computer Networking Technician. I'm still learning all about technology to become an excellent IT professional in the future.
+# Hi there! Welcome to my Profile!
+🌎🖥 Hi, my name is Victor and I am a Technology student looking for experience, improvement and new learning. I dedicate my time to study and be on top of everything that involves IT to become a good professional.
 
- ## Technologies I study
+<div>
+ <a href="https://github.com/ovictorpa">
+ <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&layout=compact&theme=highcontrast"/>
+ 
+</div>
+
  <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="4.5%"/>
  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="5%"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oarf4XxB--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" width="5%"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/ width ="5%"/>
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ge9Pgpys--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png" width = "5%"/>
-
+  
  </div>
- 
-<div>
- <a href="https://github.com/ovictorpa">
- <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&layout=compact&theme=highcontrast"/>
- 
-</div>
  
  ## Social Networkings
  <div>
