@@ -2,12 +2,6 @@
 ## Hi there! Welcome to my Profile!
 🌎🖥 Hi, my name is Victor and I am a Technology student looking for experience, improvement and new learning. I dedicate my time to study and be on top of everything that involves IT to become a good professional.
 
-<div>
- <a href="https://github.com/ovictorpa">
- <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&layout=compact&theme=highcontrast"/>
- <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=ovictorpa&show_icons=true&theme=highcontrast"/>
-</div>
- 
  <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="5%"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="5%"/>
