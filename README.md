@@ -12,9 +12,15 @@
  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-ovcrvspz.png" width = "5%"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width = "5%"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width = "5%"/>
-  
-  
+ 
  </div>
+ 
+ <br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ <div>
+ 
  
  ## Social Networkings
  <div>
