@@ -7,6 +7,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="5%"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="5%"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width = "5%"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width = "5%"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width ="5%"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width = "5%"/>
  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-ovcrvspz.png" width = "5%"/>
