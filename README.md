@@ -14,14 +14,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width = "5%"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width = "5%"/>
  
- </div>
- 
- <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovictorpa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
- <div>
- 
  
  ## Social Networkings
  <div>
