@@ -1,6 +1,6 @@
 
 ## Hi there! Welcome to my Profile!
-🌎🖥 Hi, my name is Victor and I am a Technology student looking for experience, improvement and new learning. I dedicate my time to study and be on top of everything that involves IT to become a good professional.
+🌎🖥 Hi, my name is Victor and I'm a Software Quality professional and Software Engineering graduate with solid experience in testing and automation. My experience includes applying these skills in agile environments, where I learn to adapt and optimize testing processes to meet constantly evolving demands.
 
  <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="5%"/>
